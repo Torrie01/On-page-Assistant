@@ -1,1 +1,1 @@
-# On-page-Assistant
+# On-page-Assistant that will assist viewer concerning the page.
